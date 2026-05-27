@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/ICE40UL1K-SWG16:ICE40UL1K-SWG16",
+  "name": "ICE40UL1K-SWG16",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/ICE40UL1K-SWG16.kicad_sym",
+  "description": "iCE40 UltraPlus FPGA, 1.2V, WLCSP-16",
+  "datasheet": "https://www.latticesemi.com/view_document?document_id=50945",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_CSP:WLCSP-16_1.409x1.409mm_Layout4x4_P0.35mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/ICE40UL1K-SWG16/",
+  "part_path": "parts/ICE40UL1K-SWG16",
+  "symbol_file": "parts/ICE40UL1K-SWG16/ICE40UL1K-SWG16.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.799Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/ICE5LP1K-SG48:ICE5LP1K-SG48",
+  "name": "ICE5LP1K-SG48",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/ICE5LP1K-SG48.kicad_sym",
+  "description": "iCE40 Ultra FPGA, 1100 LUTs, 1.2V, 48-pin QFN",
+  "datasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40Ultra",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_DFN_QFN:QFN-48-1EP_7x7mm_P0.5mm_EP5.6x5.6mm",
+  "extends": "ICE40UP5K-SG48ITR",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/ICE5LP1K-SG48/",
+  "part_path": "parts/ICE5LP1K-SG48",
+  "symbol_file": "parts/ICE5LP1K-SG48/ICE5LP1K-SG48.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.803Z"
+}

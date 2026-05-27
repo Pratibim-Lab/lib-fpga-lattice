@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/ICE40HX8K-BG121:ICE40HX8K-BG121",
+  "name": "ICE40HX8K-BG121",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/ICE40HX8K-BG121.kicad_sym",
+  "description": "iCE40 HX FPGA, 7680 LUTs, 1.2V, BGA-121",
+  "datasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_BGA:BGA-121_9.0x9.0mm_Layout11x11_P0.8mm_Ball0.4mm_Pad0.35mm_NSMD",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/ICE40HX8K-BG121/",
+  "part_path": "parts/ICE40HX8K-BG121",
+  "symbol_file": "parts/ICE40HX8K-BG121/ICE40HX8K-BG121.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.796Z"
+}

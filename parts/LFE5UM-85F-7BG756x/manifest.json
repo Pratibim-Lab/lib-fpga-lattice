@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/LFE5UM-85F-7BG756x:LFE5UM-85F-7BG756x",
+  "name": "LFE5UM-85F-7BG756x",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/LFE5UM-85F-7BG756x.kicad_sym",
+  "description": "ECP5 FPGA, 84K LUTs, 1.2V, 3.2Gbps SERDES, BGA-756",
+  "datasheet": "https://www.latticesemi.com/view_document?document_id=50461",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_BGA:Lattice_caBGA-756_27x27mm_Layout32x32_P0.8mm",
+  "extends": "LFE5UM5G-85F-8BG756x",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/LFE5UM-85F-7BG756x/",
+  "part_path": "parts/LFE5UM-85F-7BG756x",
+  "symbol_file": "parts/LFE5UM-85F-7BG756x/LFE5UM-85F-7BG756x.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.826Z"
+}

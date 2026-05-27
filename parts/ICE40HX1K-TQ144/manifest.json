@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/ICE40HX1K-TQ144:ICE40HX1K-TQ144",
+  "name": "ICE40HX1K-TQ144",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/ICE40HX1K-TQ144.kicad_sym",
+  "description": "iCE40 HX FPGA, 1280 LUTs, 1.2V, TQFP-144",
+  "datasheet": "http://www.latticesemi.com/Products/FPGAandCPLD/iCE40",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_QFP:TQFP-144_20x20mm_P0.5mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/ICE40HX1K-TQ144/",
+  "part_path": "parts/ICE40HX1K-TQ144",
+  "symbol_file": "parts/ICE40HX1K-TQ144/ICE40HX1K-TQ144.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.785Z"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "FPGA_Lattice/LFE5U-85F-8BG381x:LFE5U-85F-8BG381x",
+  "name": "LFE5U-85F-8BG381x",
+  "library": "FPGA_Lattice",
+  "file": "FPGA_Lattice.kicad_symdir/LFE5U-85F-8BG381x.kicad_sym",
+  "description": "ECP5 FPGA, 84K LUTs, 1.2V, BGA-381",
+  "datasheet": "https://www.latticesemi.com/view_document?document_id=50461",
+  "keywords": "FPGA programmable logic",
+  "footprint": "Package_BGA:Lattice_caBGA-381_17x17mm_Layout20x20_P0.8mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-fpga-lattice@master/parts/LFE5U-85F-8BG381x/",
+  "part_path": "parts/LFE5U-85F-8BG381x",
+  "symbol_file": "parts/LFE5U-85F-8BG381x/LFE5U-85F-8BG381x.kicad_sym",
+  "source_library": "FPGA_Lattice.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:04:01.812Z"
+}
